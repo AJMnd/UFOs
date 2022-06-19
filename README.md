@@ -6,7 +6,10 @@ The purpose of this project is to collect and display the information found on U
 We will create a web application that will let you, the user, examine and investigate the data on the sightings.  
 What will you decide? …… Are UFO’s real? 
 
-## Results:
+
+## Results: 
+
+## https://ajmnd.github.io/UFOs 
 
 How many sightings did we find? 
 California has seen 30 UFO sightings! 50% of those sightings taking place in the San Diego County.
